@@ -1,0 +1,10 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body{
+    background-color: aliceblue;
+    box-shadow: 5px 5px 5px black;
+    width: 500px;
+    padding: 10px;
+}
